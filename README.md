@@ -1,1 +1,1 @@
-# niran
+# HannahAi discord bot
